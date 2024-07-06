@@ -1,11 +1,19 @@
-# Hi there, I'm Creative 👋
+# Chào các bạn, tớ là Creative 👋
 
-## About Me
+## Về bản thân
 - 🎂 Lập trình viên mới bắt đầu, 21 tuổi, đam mê học hỏi và khám phá các công nghệ mới.
 - 🚀 Luôn sẵn sàng đối mặt với những thử thách mới và hợp tác với người khác.
 - 🌱 Hiện đang rèn luyện kỹ năng trong phát triển web và các công nghệ backend.
 
-## Skills
+## Sở thích
+- 👨‍💻 **Lập trình:** Tôi thích lập trình và phát triển các dự án mới.
+- 🕹️ **Chơi game:** Game thủ đam mê với các trò chơi RPG và chiến thuật.
+
+## Hãy liên hệ nếu bạn muốn hợp tác, thảo luận, hoặc chỉ đơn giản là trò chuyện. Tôi luôn sẵn sàng đón nhận các cơ hội và kết bạn với những người mới!
+- 📧 [Email](mailto:vngctcreative@gmail.com)
+- 🔗 [Discord](https://discord.gg/4Sbc2hVvNT)
+
+## Kỹ năng của tôi
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vngctcreative&layout=compact&theme=tokyonight)
 
@@ -18,7 +26,7 @@
 | ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python) | ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb) | 
 | ![PHP](https://img.shields.io/badge/-PHP-black?style=for-the-badge&logo=php) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=postgresql) |
 
-## My Stats
+## Khởi đầu của tôi
 
 ![Creative's GitHub stats](https://github-readme-stats.vercel.app/api?username=vngctcreative&show_icons=true&theme=radical)
 
@@ -58,11 +66,3 @@
     <td>HTML, CSS, JAVA</td>
   </tr>
 </table>
-
-## Hobbies
-- 👨‍💻 **Lập trình:** Tôi thích lập trình và phát triển các dự án mới.
-- 🕹️ **Chơi game:** Game thủ đam mê với các trò chơi RPG và chiến thuật.
-
-## Contact Me
-Hãy liên hệ nếu bạn muốn hợp tác trong một dự án, thảo luận về công nghệ, hoặc chỉ đơn giản là trò chuyện về các trò chơi yêu thích của bạn. Tôi luôn sẵn sàng đón nhận các cơ hội và kết nối mới!
-- 📧 [Email](mailto:vngctcreative@gmail.com)
