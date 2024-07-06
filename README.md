@@ -1,5 +1,3 @@
----
-
 # Hi there, I'm Creative 👋
 
 ## About Me
@@ -52,7 +50,7 @@
     <td>Bot Discord được xây dựng bằng Python, mạnh mẽ với nhiều tính năng quản lý máy chủ, tăng cường tương tác người dùng và giải trí. Bot được tổ chức thành nhiều module khác nhau, mỗi module xử lý các chức năng riêng biệt.</td>
     <td>Python, discord.py</td>
   </tr>
-    <tr>
+  <tr>
     <td><a href="https://github.com/vngctcreative/htmlweb"><b>Simple Website (HTML)</b></a></td>
     <td>Website tĩnh đầu tiên tôi code</td>
     <td>HTML, CSS, JAVA</td>
@@ -71,5 +69,3 @@
 ## Contact Me
 Hãy liên hệ nếu bạn muốn hợp tác trong một dự án, thảo luận về công nghệ, hoặc chỉ đơn giản là trò chuyện về các trò chơi yêu thích của bạn. Tôi luôn sẵn sàng đón nhận các cơ hội và kết nối mới!
 - 📧 [Email](mailto:vngctcreative@gmail.com)
-
----
