@@ -1,3 +1,5 @@
+---
+
 # Hi there, I'm Creative 👋
 
 ## About Me
@@ -24,6 +26,15 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vngctcreative&theme=radical)
 
+![Profile Views](https://komarev.com/ghpvc/?username=vngctcreative&style=flat-square)
+
+## Badges
+
+[![Years Badge](https://badges.pufler.dev/years/vngctcreative)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/vngctcreative)](https://badges.pufler.dev)
+[![Gists Badge](https://badges.pufler.dev/gists/vngctcreative)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/vngctcreative)](https://badges.pufler.dev)
+
 ## Các dự án mà tôi đang phụ trách
 <table>
   <tr>
@@ -43,7 +54,12 @@
   </tr>
     <tr>
     <td><a href="https://github.com/vngctcreative/htmlweb"><b>Simple Website (HTML)</b></a></td>
-    <td>Website đơn giản kết hợp giữa HTML, CSS, JAVA</td>
+    <td>Website tĩnh đầu tiên tôi code</td>
+    <td>HTML, CSS, JAVA</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/vngctcreative/webhook-discord"><b>Webhook Discord</b></a></td>
+    <td>Website sử dụng webhook để gửi tin nhắn vào discord</td>
     <td>HTML, CSS, JAVA</td>
   </tr>
 </table>
@@ -55,4 +71,5 @@
 ## Contact Me
 Hãy liên hệ nếu bạn muốn hợp tác trong một dự án, thảo luận về công nghệ, hoặc chỉ đơn giản là trò chuyện về các trò chơi yêu thích của bạn. Tôi luôn sẵn sàng đón nhận các cơ hội và kết nối mới!
 - 📧 [Email](mailto:vngctcreative@gmail.com)
+
 ---
