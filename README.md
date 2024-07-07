@@ -68,6 +68,6 @@
     <tr>
     <td><a href="https://github.com/vngctcreative/shopwebphp"><b>Shop Web PHP</b></a></td>
     <td>Website sử dụng ngôn ngữ PHP, bán vật phẩm, tài khoản, key, ...</td>
-    <td>HTML, CSS, JAVA</td>
+    <td>PHP, SQL, CSS, JAVA</td>
   </tr>
 </table>
