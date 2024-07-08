@@ -17,7 +17,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vngctcreative&layout=compact&theme=tokyonight)
 
-| Ngôn ngữ lập trình | Công cụ và Công nghệ |
+| Các ngôn ngữ lập trình thành thạo | Công cụ và Công nghệ |
 |---------------------|----------------------|
 | ![HTML](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5) | ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git) |
 | ![CSS](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3) | ![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker) |
