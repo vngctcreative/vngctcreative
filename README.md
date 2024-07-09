@@ -15,7 +15,7 @@
 
 ## Kỹ năng của tôi
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vngctcreative&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vngctcreative&layout=compact&theme=tokyonight&langs_count=10)
 
 | Các ngôn ngữ lập trình thành thạo | Công cụ và Công nghệ |
 |---------------------|----------------------|
