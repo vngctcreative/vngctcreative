@@ -1,5 +1,11 @@
 # Chào các bạn, tớ là Creative 👋
 
+[![Years Badge](https://badges.pufler.dev/years/vngctcreative)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/vngctcreative)](https://badges.pufler.dev)
+[![Gists Badge](https://badges.pufler.dev/gists/vngctcreative)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/vngctcreative)](https://badges.pufler.dev)
+![Profile Views](https://komarev.com/ghpvc/?username=vngctcreative&style=flat-square)
+
 ## Về bản thân
 - 🎂 Lập trình viên mới bắt đầu, 21 tuổi, đam mê học hỏi và khám phá các công nghệ mới.
 - 🚀 Luôn sẵn sàng đối mặt với những thử thách mới và hợp tác với người khác.
@@ -31,12 +37,6 @@
 ![Creative's GitHub stats](https://github-readme-stats.vercel.app/api?username=vngctcreative&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vngctcreative&theme=radical)
-
-[![Years Badge](https://badges.pufler.dev/years/vngctcreative)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/vngctcreative)](https://badges.pufler.dev)
-[![Gists Badge](https://badges.pufler.dev/gists/vngctcreative)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/vngctcreative)](https://badges.pufler.dev)
-![Profile Views](https://komarev.com/ghpvc/?username=vngctcreative&style=flat-square)
 
 ## Các dự án mà tôi đang phụ trách
 <table>
