@@ -1,9 +1,5 @@
 # Chào các bạn, tớ là Creative 👋
 
-[![Years Badge](https://badges.pufler.dev/years/vngctcreative)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/vngctcreative)](https://badges.pufler.dev)
-[![Gists Badge](https://badges.pufler.dev/gists/vngctcreative)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/vngctcreative)](https://badges.pufler.dev)
 ![Profile Views](https://komarev.com/ghpvc/?username=vngctcreative&style=flat-square)
 
 ## Về bản thân
